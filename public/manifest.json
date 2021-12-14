@@ -1,6 +1,7 @@
 {
     "name": "Budget Tracker",
     "short_name": "$Tracker",
+    "description": "An app for easily tracking budget transactions",
     "icons": [
         {
             "src": "icons/icon-512x512.png",
@@ -44,7 +45,7 @@
         }
     ],
     "theme_color": "#444544",
-    "background_color": "#ffffff",
-    "start_url": ".",
+    "background_color": "#D3D3D3",
+    "start_url": "/",
     "display": "standalone"
 }

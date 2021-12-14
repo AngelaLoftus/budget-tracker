@@ -16,7 +16,7 @@
 * Link to Deployed Application on Heroku
 * [Budget Tracker](https://warm-escarpment-87105.herokuapp.com/)
 * Link to Github Repository
-* [React Portfolio Repository](https://github.com/AngelaLoftus/budget-tracker)
+* [Budget Tracker Repository](https://github.com/AngelaLoftus/budget-tracker)
 
 ## Screenshots
 ![budgetTrackerScreenshot](https://github.com/AngelaLoftus/budget-tracker/blob/main/public/images/Screenshot%202021-12-14%20002357.jpg)
