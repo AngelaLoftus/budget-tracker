@@ -28,6 +28,7 @@ function saveRecord(record) {
   const transactionObjectStore = transaction.objectStore('new_transactions');
 
   // add record to your store with add method.
+    alert('Transaction Stored Locally ♪┏(・o･)┛♪┗ ( ･o･) ┓♪');
     transactionObjectStore.add(record);
 }
 
